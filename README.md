@@ -35,13 +35,13 @@ Hi, I'm [Jagrit Acharya], a Full Stack Developer 🚀 from India, currently, I'm
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Django   29 mins         █████████████████████████   100.00 % 
+Django   40 hours      ███████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
-🏆  6,192 Karma Points           
+🏆  200, leetcode Points           
 🌸  Completed 0 tasks today           
 ✅  Completed 459 tasks so far           
 ⏳  Longest streak is 10 days
