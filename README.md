@@ -11,14 +11,14 @@
  </p>
 <br />
 
-Hi, I'm [Jagrit Acharya], a Full Stack Developer 🚀 from India, currently, I'm a Project Collaborator 🙍🏽‍♂️ [Now mozilla](https://nowmozilla.club/), Beside's programming, I enjoy eating food and traveling and ofcourse Netflix.
+Hi, I'm [Jagrit Acharya], a Full Stack Developer 🚀 from India, currently, I'm a Project Collaborator 🙍🏽‍♂️ [Now mozilla](https://nowmozilla.club/), former mentor at GSSOC, Research Intern at IIT Delhi and OpenMined, SDE at DSPIM , Beside's programming, I enjoy eating food and traveling and ofcourse Netflix.
 
   <img align="right" alt="GIF" src="https://github.com/JAgrit20/JAgrit20/blob/main/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Django and C++; 
+- 🌱 I’m currently do reaseach on non conventional future work; 
 - 💬 Ask me about anything, I am happy to help;
 
 **Languages and Tools:**  
@@ -37,7 +37,7 @@ Hi, I'm [Jagrit Acharya], a Full Stack Developer 🚀 from India, currently, I'm
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Django   40 hours      ███████████████████████   100.00 % 
+Research   40 hours      ███████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
