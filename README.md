@@ -11,7 +11,7 @@
  </p>
 <br />
 
-Hi, I'm [Jagrit Acharya] MSc CS student at Univerity of Calgary, and a Full Stack Developer 🚀 from India; currently, I have been a Project Collaborator 🙍🏽‍♂️ [Now mozilla](https://nowmozilla.club/), and Interned at MITACS🍁, Former mentor at GSSOC, Former Research Intern at IIT Delhi and OpenMined, Former SDI at DSP mutual funds, Aside from programming, I enjoy eating, traveling, and, ofcourse, Netflix.
+Hi, I'm [Jagrit Acharya], I have been a Project Collaborator 🙍🏽‍♂️ [Now mozilla](https://nowmozilla.club/), and Interned at MITACS🍁, Former mentor at GSSOC, Former Research Intern at IIT Delhi and OpenMined, Former SDI at DSP mutual funds, Aside from programming, I enjoy eating, traveling, and, ofcourse, Netflix.
 
   <img align="right" alt="GIF" src="https://github.com/JAgrit20/JAgrit20/blob/main/code.gif?raw=true" width="500" height="320" />
   
