@@ -15,8 +15,8 @@ Hi, I'm [Jagrit Acharya], I have been a Project Collaborator 🙍🏽‍♂️ [
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently do reaseach on non conventional future work; 
+- 👨🏽‍💻 I’m currently working on something cool with LLM :wink:;
+- 🌱 I’m building [JobMatchify](https://jobmatchify.com/)  
 - 💬 Ask me about anything, I am happy to help;
 
 **Languages and Tools:**  
